@@ -5,3 +5,4 @@
 /bin/
 /logs/
 /test-output/
+*.iml
