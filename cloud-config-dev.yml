@@ -11,4 +11,4 @@ spring:
     test-while-idle: true
 mybatis:
   mapperLocations: classpath*:mapper/*.xml
-  typeAliasesPackage: com.carzone.crm.mapper
+  typeAliasesPackage: com.lee.spring.cloud.config.client.dao.mapper
